@@ -38,6 +38,8 @@ Tested with High SIerra and Catalina.
 ```
 </details>
 
+Use [GenSmbios](https://github.com/corpnewt/GenSMBIOS) to generate and insert the MacBookPro10,2 (or whatever you like) personalization to the config.plist. Follow the instrucrions in the script.
+
 # Credits:
 - Apple for the operating system
 - Acidanthera for Opencore
