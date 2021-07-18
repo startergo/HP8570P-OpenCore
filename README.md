@@ -41,6 +41,6 @@ Tested with High SIerra and Catalina.
 # Credits:
 - Apple for the operating system
 - Acidanthera for Opencore
-- @vzahradnik for the original configuration folder
-- Mald0n for the battery status, audio, power management, and the DSDT patching. 
+- [vzahradnik](https://github.com/vzahradnik) for the original configuration folder
+- [Mald0n](https://www.olarila.com/profile/2-mald0n/) for the battery status, audio, power management, and the DSDT patching. 
 
