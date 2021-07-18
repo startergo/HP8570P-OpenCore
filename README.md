@@ -1,6 +1,6 @@
 # HP8570P-OpenCore
 HP8570P OpenCore
-* Enhanced OpenCore configuration file and folder for OpenCore. Used this [Base folder](https://github.com/vzahradnik/hp-elitebook-8570p-opencore) for starting.
+* Enhanced OpenCore configuration file and folder. Used this [Base folder](https://github.com/vzahradnik/hp-elitebook-8570p-opencore) for starting.
 Tested with High SIerra and Catalina.
 
 * What works?
