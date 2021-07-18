@@ -81,10 +81,10 @@
 						<key>TrackpadSecondaryClickCorners</key>
 						<true/>
 						<key>TrackpadThreeFingerDrag</key>
-						<false/>
+						<true/>
 					</dict>
 					<key>DefaultResolution</key>
-					<integer>800</integer>
+					<integer>240</integer>
 					<key>DisableDevice</key>
 					<false/>
 					<key>DisableLEDUpdating</key>
