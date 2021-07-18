@@ -1,6 +1,6 @@
 # HP8570P-OpenCore
 HP8570P OpenCore
-* Enhanced OpenCore configuration file and folder for OpenCore. Used this [Base folder](https://github.com/vzahradnik/hp-elitebook-8570p-opencore) for starting.
+* Enhanced OpenCore configuration file and EFI folder. Used this [Base folder](https://github.com/vzahradnik/hp-elitebook-8570p-opencore) for starting the project.
 Tested with High SIerra and Catalina.
 
 * What works?
@@ -38,7 +38,7 @@ Tested with High SIerra and Catalina.
 ```
 </details>
 
-Use [GenSmbios](https://github.com/corpnewt/GenSMBIOS) to generate and insert the MacBookPro10,2 (or whatever you like) personalization to the config.plist. Follow the instrucrions in the script.
+Use [GenSmbios](https://github.com/corpnewt/GenSMBIOS) to generate and insert the MacBookPro10,2 (or whatever you like) SmBios personalization to the config.plist. Follow the instrucrions in the script.
 
 # Credits:
 - Apple for the operating system
