@@ -9,6 +9,9 @@ Tested with High SIerra and Catalina.
 * What does not work?
 > I will add to this section if/when I find it along the road...
 <details>
+  
+* How it runs?
+> Lightning fast. Better than my MacBookPro11,3
   <summary>Hardware Summary:</summary>
 
 ```
