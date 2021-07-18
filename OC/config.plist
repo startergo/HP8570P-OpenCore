@@ -1310,11 +1310,11 @@
 			<key>MaxBIOSVersion</key>
 			<true/>
 			<key>MLB</key>
-			<string>C02203500GUF1YJ8C</string>
+			<string>Generate</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>iI7vZ/d7</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1322,9 +1322,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro10,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02HLSYHDR53</string>
+			<string>Generate</string>
 			<key>SystemUUID</key>
-			<string>AC3A37F4-4149-4A03-9A3B-B5ED64106819</string>
+			<string>Generate</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -1335,9 +1335,9 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>f/8f/wAAAAA=</data>
 			<key>MLB</key>
-			<string>C02203500GUF1YJ8C</string>
+			<string>Generate</string>
 			<key>ROM</key>
-			<data>iI7vZ/d7</data>
+			<data></data>
 			<key>SystemSerialNumber</key>
 			<string></string>
 			<key>SystemUUID</key>
