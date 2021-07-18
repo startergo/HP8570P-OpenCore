@@ -38,7 +38,7 @@ Tested with High SIerra and Catalina.
 ├─00:1d.0       #                [8086:1e26] [0c03] (rev 04) USB controller            : Intel Corporation 7 Series/C216 Chipset Family USB Enhanced Host Controller #1
 ├─00:1f.0       #                [8086:1e55] [0601] (rev 04) ISA bridge                : Intel Corporation QM77 Express Chipset LPC Controller
 └─00:1f.2       #                [8086:1e03] [0106] (rev 04) SATA controller           : Intel Corporation 7 Series Chipset Family 6-port SATA Controller [AHCI mode]
-Bluetooth: Broadcom  Chipset: 20702A3  Firmware Version:	v14 c5866 Vendor ID: 0x0A5C  Product ID: 0x21E1  
+Bluetooth: Broadcom  Chipset: 20702A3 Firmware Version:	v14 c5866 Vendor ID: 0x0A5C  Product ID: 0x21E1  
 
 ```
 </details>
