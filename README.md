@@ -42,6 +42,9 @@ Bluetooth: Broadcom  Chipset: 20702A3 Firmware Version:	v14 c5866 Vendor ID: 0x0
 
 ```
 </details>
+Upgrading to Big Sur requires  injecting SMBIOS (or at least board-id) for MacBookPro11,2 or MacBookPro11,4 
+Upgrading to Monterey requires injecting SMBIOS (or at least board-id) for MacBookPro11,4 and HD4000 drivers patching. There are some 
+[caveats](https://forums.macrumors.com/threads/macos-12-monterey-on-unsupported-macs-thread.2299557/post-30111120)
 
 Use [GenSmbios](https://github.com/corpnewt/GenSMBIOS) to generate and insert the MacBookPro10,2 (or whatever you like) SmBios personalization to the config.plist. Follow the instrucrions in the script.
 
