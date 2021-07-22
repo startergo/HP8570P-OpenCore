@@ -6,6 +6,8 @@ Tested with High SIerra and Catalina.
 * What works?
 > Ughh... everything with the exception of the "What does not work" below?
 
+* The Power Managment SSDT.aml is based on the i5-3340M CPU. You need to generate one for your own CPU if it is different from it following [this guide](https://www.olarila.com/topic/6451-guide-generate-ssdt-for-power-management-with-ssdtprgen/)
+
 * What does not work?
 > I will add to this section if/when I find it along the road...
 
