@@ -1,8 +1,8 @@
 # HP8570P-OpenCore
 HP8570P OpenCore
 * Enhanced OpenCore configuration file and EFI folder. Used this [Base folder](https://github.com/vzahradnik/hp-elitebook-8570p-opencore) for starting the project.
-Tested with High SIerra and Catalina.
-Tested Big Sur 11.5. Xcode started crashing. Fixid by issuing:
+- Tested with High SIerra and Catalina.
+- Tested Big Sur 11.5. Xcode started crashing. Fixid by issuing:
 ```defaults write com.apple.dt.Xcode DVTDisableMainThreadChecker 1```
 
 * What works?
